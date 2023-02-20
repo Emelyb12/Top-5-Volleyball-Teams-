@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  background-color:darkgrey;
+  color:black;
+
+}
+body{
+  background-color: slategray;
+  text-align:left;
+  color: rgb(8, 107, 16);
+
+}
+header{
+  padding:20px;
+  margin: 10px;
+}
+
